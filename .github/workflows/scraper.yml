@@ -1,0 +1,43 @@
+name: Daily Subagent Scraper
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+  workflow_dispatch:      # Allows manual trigger
+
+jobs:
+  scrape-and-update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write       # Needed to commit changes to the repo
+      
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: 'latest'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests playwright
+        
+    - name: Install Playwright Browsers
+      run: playwright install chromium
+      
+    - name: Run Web Scraper Subagent
+      env:
+        CI: true
+      run: python job_manager.py
+      
+    - name: Commit and push changes
+      run: |
+        git config --global user.name "Market-Sentinel-Bot"
+        git config --global user.email "bot@amanacapital.com"
+        git add jobs_database.json
+        # Only commit if there are changes
+        git diff --quiet && git diff --staged --quiet || git commit -m "[Subagent] Daily jobs database update"
+        git push

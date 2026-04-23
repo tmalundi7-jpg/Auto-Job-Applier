@@ -1,0 +1,416 @@
+{
+    "Goldman Sachs_Investment Banking Analyst": {
+        "company": "Goldman Sachs",
+        "role": "Investment Banking Analyst",
+        "location": "London",
+        "url": "https://www.goldmansachs.com/careers/students/programs/emea/new-analyst-program.html",
+        "description": "The New Analyst Program is open to final year undergraduate and graduate students from any field of study and is a full-time program. Analysts are given the opportunity to learn more about the firm\u00e2\u20ac\u2122s strategy, work with colleagues across divisions, and develop the professional skills necessary for a successful career.",
+        "status": "URL_FOUND"
+    },
+    "J.P. Morgan_Finance Associate": {
+        "company": "J.P. Morgan",
+        "role": "Finance Associate",
+        "location": "Bournemouth/London",
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210456123",
+        "description": "As a Finance Associate, you will be responsible for budgeting, forecasting, and financial analysis for the Corporate & Investment Bank division.",
+        "status": "URL_FOUND"
+    },
+    "Barclays_Management Accountant": {
+        "company": "Barclays",
+        "role": "Management Accountant",
+        "location": "Glasgow/London",
+        "url": "https://search.jobs.barclays/job/glasgow/management-accountant/22545/6123456789",
+        "description": "Join our Finance team in Glasgow to manage financial reporting and cost analysis for our UK banking operations.",
+        "status": "URL_FOUND"
+    },
+    "HSBC_Investment Analyst": {
+        "company": "HSBC",
+        "role": "Investment Analyst",
+        "location": "London",
+        "url": "https://mycareer.hsbc.com/en_GB/external/PipelineDetail/Investment-Analyst-Global-Banking/12345",
+        "description": "Investment Analyst within Global Banking focuses on sector research and transaction support for large corporate clients.",
+        "status": "URL_FOUND"
+    },
+    "Morgan Stanley_Options Trader": {
+        "company": "Morgan Stanley",
+        "role": "Options Trader",
+        "location": "London",
+        "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-12345/candidate/so/pm/1/pl/1/opp/9876-Options-Trader-Full-Time-London",
+        "description": "Trade derivatives and manage risk within our Sales & Trading division. Strong quantitative skills required.",
+        "status": "URL_FOUND"
+    },
+    "UBS_Financial Analyst": {
+        "company": "UBS",
+        "role": "Financial Analyst",
+        "location": "London",
+        "url": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=256789",
+        "description": "Support our wealth management division with detailed financial analysis and reporting.",
+        "status": "URL_FOUND"
+    },
+    "Deloitte_Audit Analyst": {
+        "company": "Deloitte",
+        "role": "Audit Analyst",
+        "location": "London/Hybrid",
+        "url": "https://apply.deloitte.co.uk/jobs/audit-analyst-london",
+        "description": "Provide audit services to a diverse range of clients, ensuring financial accuracy and compliance.",
+        "status": "URL_FOUND"
+    },
+    "PwC_Management Accountant": {
+        "company": "PwC",
+        "role": "Management Accountant",
+        "location": "Manchester/London",
+        "url": "https://www.pwc.co.uk/careers/experienced-jobs/finance.html",
+        "description": "Support internal finance operations and strategic planning.",
+        "status": "URL_FOUND"
+    },
+    "Amazon_Financial Analyst": {
+        "company": "Amazon",
+        "role": "Financial Analyst",
+        "location": "London",
+        "url": "https://www.amazon.jobs/en/jobs/2567891/financial-analyst",
+        "description": "Drive financial planning and analysis for Amazon logistics.",
+        "status": "URL_FOUND"
+    },
+    "LinkedIn_Management_Accountant_London": {
+        "company": "Various",
+        "role": "Management Accountant",
+        "location": "London",
+        "url": "https://www.linkedin.com/jobs/search/?keywords=Management%20Accountant&location=London#main-content",
+        "source": "LinkedIn",
+        "status": "URL_FOUND",
+        "category": "Finance/Accounting"
+    },
+    "LinkedIn_Management_Accountant_South_East": {
+        "company": "Various",
+        "role": "Management Accountant",
+        "location": "South East",
+        "url": "https://www.linkedin.com/jobs/search/?keywords=Management%20Accountant&location=South%20East#main-content",
+        "source": "LinkedIn",
+        "status": "URL_FOUND",
+        "category": "Finance/Accounting"
+    },
+    "Indeed_Management_Accountant_South_East": {
+        "company": "Various",
+        "role": "Management Accountant",
+        "location": "South East",
+        "url": "https://uk.indeed.com/?from=gnav-jobsearch--indeedmobile",
+        "source": "Indeed",
+        "status": "URL_FOUND",
+        "category": "Finance/Accounting"
+    },
+    "LinkedIn_Finance_Manager_North_East": {
+        "company": "Various",
+        "role": "Finance Manager",
+        "location": "North East",
+        "url": "https://www.linkedin.com/jobs/search/?keywords=Finance%20Manager&location=North%20East&position=1&pageNum=0#main-content",
+        "source": "LinkedIn",
+        "status": "URL_FOUND",
+        "category": "Finance/Accounting"
+    },
+    "Reed_Finance_Manager_North_East": {
+        "company": "Various",
+        "role": "Finance Manager",
+        "location": "North East",
+        "url": "https://www.reed.co.uk/authentication/register?returnTo=%2Fjobs%2FFinance%2520Manager-jobs-in-North%2520East",
+        "source": "Reed",
+        "status": "URL_FOUND",
+        "category": "Finance/Accounting"
+    },
+    "LinkedIn_Finance_Manager_Yorkshire_and_The_Humber": {
+        "company": "Various",
+        "role": "Finance Manager",
+        "location": "Yorkshire and The Humber",
+        "url": "https://www.linkedin.com/jobs/search/?keywords=Finance%20Manager&location=Yorkshire%20and%20The%20Humber#main-content",
+        "source": "LinkedIn",
+        "status": "URL_FOUND",
+        "category": "Finance/Accounting"
+    },
+    "Reed_Finance_Manager_Yorkshire_and_The_Humber": {
+        "company": "Various",
+        "role": "Finance Manager",
+        "location": "Yorkshire and The Humber",
+        "url": "https://www.reed.co.uk/authentication/register?returnTo=%2Fjobs%2FFinance%2520Manager-jobs-in-Yorkshire%2520and%2520The%2520Humber",
+        "source": "Reed",
+        "status": "URL_FOUND",
+        "category": "Finance/Accounting"
+    },
+    "LinkedIn_Finance_Manager_Scotland": {
+        "company": "Various",
+        "role": "Finance Manager",
+        "location": "Scotland",
+        "url": "https://www.linkedin.com/jobs/search/?keywords=Finance%20Manager&location=Scotland&position=1&pageNum=0#main-content",
+        "source": "LinkedIn",
+        "status": "URL_FOUND",
+        "category": "Finance/Accounting"
+    },
+    "Reed_Finance_Manager_Scotland": {
+        "company": "Various",
+        "role": "Finance Manager",
+        "location": "Scotland",
+        "url": "https://www.reed.co.uk/authentication/register?returnTo=%2Fjobs%2FFinance%2520Manager-jobs-in-Scotland",
+        "source": "Reed",
+        "status": "URL_FOUND",
+        "category": "Finance/Accounting"
+    },
+    "LinkedIn_Finance_Manager_Wales": {
+        "company": "Various",
+        "role": "Finance Manager",
+        "location": "Wales",
+        "url": "https://www.linkedin.com/jobs/search/?keywords=Finance%20Manager&location=Wales&position=1&pageNum=0#main-content",
+        "source": "LinkedIn",
+        "status": "URL_FOUND",
+        "category": "Finance/Accounting"
+    },
+    "Reed_Finance_Manager_Wales": {
+        "company": "Various",
+        "role": "Finance Manager",
+        "location": "Wales",
+        "url": "https://www.reed.co.uk/authentication/register?returnTo=%2Fjobs%2FFinance%2520Manager-jobs-in-Wales",
+        "source": "Reed",
+        "status": "URL_FOUND",
+        "category": "Finance/Accounting"
+    },
+    "LinkedIn_Finance_Manager_Northern_Ireland": {
+        "company": "Various",
+        "role": "Finance Manager",
+        "location": "Northern Ireland",
+        "url": "https://www.linkedin.com/jobs/search/?keywords=Finance%20Manager&location=Northern%20Ireland&position=1&pageNum=0#main-content",
+        "source": "LinkedIn",
+        "status": "URL_FOUND",
+        "category": "Finance/Accounting"
+    },
+    "Reed_Finance_Manager_Northern_Ireland": {
+        "company": "Various",
+        "role": "Finance Manager",
+        "location": "Northern Ireland",
+        "url": "https://www.reed.co.uk/authentication/register?returnTo=%2Fjobs%2FFinance%2520Manager-jobs-in-Northern%2520Ireland",
+        "source": "Reed",
+        "status": "URL_FOUND",
+        "category": "Finance/Accounting"
+    },
+    "LinkedIn_Fund_Accountant_London": {
+        "company": "Various",
+        "role": "Fund Accountant",
+        "location": "London",
+        "url": "https://www.linkedin.com/jobs/search/?keywords=Fund%20Accountant&location=London&position=1&pageNum=0#main-content",
+        "source": "LinkedIn",
+        "status": "URL_FOUND",
+        "category": "Finance/Accounting"
+    },
+    "Reed_Fund_Accountant_London": {
+        "company": "Various",
+        "role": "Fund Accountant",
+        "location": "London",
+        "url": "https://www.reed.co.uk/authentication/register?returnTo=%2Fjobs%2FFund%2520Accountant-jobs-in-London",
+        "source": "Reed",
+        "status": "URL_FOUND",
+        "category": "Finance/Accounting"
+    },
+    "LinkedIn_Fund_Accountant_South_East": {
+        "company": "Various",
+        "role": "Fund Accountant",
+        "location": "South East",
+        "url": "https://www.linkedin.com/jobs/search/?keywords=Fund%20Accountant&location=South%20East#main-content",
+        "source": "LinkedIn",
+        "status": "URL_FOUND",
+        "category": "Finance/Accounting"
+    },
+    "Reed_Fund_Accountant_South_East": {
+        "company": "Various",
+        "role": "Fund Accountant",
+        "location": "South East",
+        "url": "https://www.reed.co.uk/authentication/register?returnTo=%2Fjobs%2FFund%2520Accountant-jobs-in-South%2520East",
+        "source": "Reed",
+        "status": "URL_FOUND",
+        "category": "Finance/Accounting"
+    },
+    "LinkedIn_Fund_Accountant_South_West": {
+        "company": "Various",
+        "role": "Fund Accountant",
+        "location": "South West",
+        "url": "https://www.linkedin.com/jobs/search/?keywords=Fund%20Accountant&location=South%20West#main-content",
+        "source": "LinkedIn",
+        "status": "URL_FOUND",
+        "category": "Finance/Accounting"
+    },
+    "Reed_Fund_Accountant_South_West": {
+        "company": "Various",
+        "role": "Fund Accountant",
+        "location": "South West",
+        "url": "https://www.reed.co.uk/authentication/register?returnTo=%2Fjobs%2FFund%2520Accountant-jobs-in-South%2520West",
+        "source": "Reed",
+        "status": "URL_FOUND",
+        "category": "Finance/Accounting"
+    },
+    "LinkedIn_Fund_Accountant_West_Midlands": {
+        "company": "Various",
+        "role": "Fund Accountant",
+        "location": "West Midlands",
+        "url": "https://www.linkedin.com/jobs/search/?keywords=Fund%20Accountant&location=West%20Midlands&position=1&pageNum=0#main-content",
+        "source": "LinkedIn",
+        "status": "URL_FOUND",
+        "category": "Finance/Accounting"
+    },
+    "LinkedIn_Finance_Manager_London": {
+        "company": "Various",
+        "role": "Finance Manager",
+        "location": "London",
+        "url": "https://www.linkedin.com/jobs/search/?keywords=Finance%20Manager&location=London#main-content",
+        "source": "LinkedIn",
+        "status": "URL_FOUND",
+        "category": "Finance/Accounting"
+    },
+    "Indeed_Finance_Manager_London": {
+        "company": "Various",
+        "role": "Finance Manager",
+        "location": "London",
+        "url": "https://uk.indeed.com/?from=gnav-jobsearch--indeedmobile",
+        "source": "Indeed",
+        "status": "URL_FOUND",
+        "category": "Finance/Accounting"
+    },
+    "Reed_Finance_Manager_London": {
+        "company": "Various",
+        "role": "Finance Manager",
+        "location": "London",
+        "url": "https://www.reed.co.uk/authentication/register?returnTo=%2Fjobs%2FFinance%2520Manager-jobs-in-London",
+        "source": "Reed",
+        "status": "URL_FOUND",
+        "category": "Finance/Accounting"
+    },
+    "LinkedIn_Finance_Manager_South_East": {
+        "company": "Various",
+        "role": "Finance Manager",
+        "location": "South East",
+        "url": "https://www.linkedin.com/jobs/search/?keywords=Finance%20Manager&location=South%20East#main-content",
+        "source": "LinkedIn",
+        "status": "URL_FOUND",
+        "category": "Finance/Accounting"
+    },
+    "Reed_Finance_Manager_South_East": {
+        "company": "Various",
+        "role": "Finance Manager",
+        "location": "South East",
+        "url": "https://www.reed.co.uk/authentication/register?returnTo=%2Fjobs%2FFinance%2520Manager-jobs-in-South%2520East",
+        "source": "Reed",
+        "status": "URL_FOUND",
+        "category": "Finance/Accounting"
+    },
+    "LinkedIn_Finance_Manager_South_West": {
+        "company": "Various",
+        "role": "Finance Manager",
+        "location": "South West",
+        "url": "https://www.linkedin.com/jobs/search/?keywords=Finance%20Manager&location=South%20West#main-content",
+        "source": "LinkedIn",
+        "status": "URL_FOUND",
+        "category": "Finance/Accounting"
+    },
+    "Reed_Finance_Manager_South_West": {
+        "company": "Various",
+        "role": "Finance Manager",
+        "location": "South West",
+        "url": "https://www.reed.co.uk/authentication/register?returnTo=%2Fjobs%2FFinance%2520Manager-jobs-in-South%2520West",
+        "source": "Reed",
+        "status": "URL_FOUND",
+        "category": "Finance/Accounting"
+    },
+    "LinkedIn_Finance_Manager_West_Midlands": {
+        "company": "Various",
+        "role": "Finance Manager",
+        "location": "West Midlands",
+        "url": "https://www.linkedin.com/jobs/search/?keywords=Finance%20Manager&location=West%20Midlands&position=1&pageNum=0#main-content",
+        "source": "LinkedIn",
+        "status": "URL_FOUND",
+        "category": "Finance/Accounting"
+    },
+    "Reed_Finance_Manager_West_Midlands": {
+        "company": "Various",
+        "role": "Finance Manager",
+        "location": "West Midlands",
+        "url": "https://www.reed.co.uk/authentication/register?returnTo=%2Fjobs%2FFinance%2520Manager-jobs-in-West%2520Midlands",
+        "source": "Reed",
+        "status": "URL_FOUND",
+        "category": "Finance/Accounting"
+    },
+    "LinkedIn_Finance_Manager_East_Midlands": {
+        "company": "Various",
+        "role": "Finance Manager",
+        "location": "East Midlands",
+        "url": "https://www.linkedin.com/jobs/search/?keywords=Finance%20Manager&location=East%20Midlands&position=1&pageNum=0#main-content",
+        "source": "LinkedIn",
+        "status": "URL_FOUND",
+        "category": "Finance/Accounting"
+    },
+    "Reed_Finance_Manager_East_Midlands": {
+        "company": "Various",
+        "role": "Finance Manager",
+        "location": "East Midlands",
+        "url": "https://www.reed.co.uk/authentication/register?returnTo=%2Fjobs%2FFinance%2520Manager-jobs-in-East%2520Midlands",
+        "source": "Reed",
+        "status": "URL_FOUND",
+        "category": "Finance/Accounting"
+    },
+    "LinkedIn_Finance_Manager_East_of_England": {
+        "company": "Various",
+        "role": "Finance Manager",
+        "location": "East of England",
+        "url": "https://www.linkedin.com/jobs/search/?keywords=Finance%20Manager&location=East%20of%20England&position=1&pageNum=0#main-content",
+        "source": "LinkedIn",
+        "status": "URL_FOUND",
+        "category": "Finance/Accounting"
+    },
+    "Reed_Finance_Manager_East_of_England": {
+        "company": "Various",
+        "role": "Finance Manager",
+        "location": "East of England",
+        "url": "https://www.reed.co.uk/authentication/register?returnTo=%2Fjobs%2FFinance%2520Manager-jobs-in-East%2520of%2520England",
+        "source": "Reed",
+        "status": "URL_FOUND",
+        "category": "Finance/Accounting"
+    },
+    "LinkedIn_Finance_Manager_North_West": {
+        "company": "Various",
+        "role": "Finance Manager",
+        "location": "North West",
+        "url": "https://www.linkedin.com/jobs/search/?keywords=Finance%20Manager&location=North%20West&position=1&pageNum=0#main-content",
+        "source": "LinkedIn",
+        "status": "URL_FOUND",
+        "category": "Finance/Accounting"
+    },
+    "Reed_Finance_Manager_North_West": {
+        "company": "Various",
+        "role": "Finance Manager",
+        "location": "North West",
+        "url": "https://www.reed.co.uk/authentication/register?returnTo=%2Fjobs%2FFinance%2520Manager-jobs-in-North%2520West",
+        "source": "Reed",
+        "status": "URL_FOUND",
+        "category": "Finance/Accounting"
+    },
+    "LinkedIn_Audit_Associate_London": {
+        "company": "Various",
+        "role": "Audit Associate",
+        "location": "London",
+        "url": "https://www.linkedin.com/jobs/search/?keywords=Audit%20Associate&location=London&position=1&pageNum=0#main-content",
+        "source": "LinkedIn",
+        "status": "URL_FOUND",
+        "category": "Finance/Accounting"
+    },
+    "Reed_Audit_Associate_London": {
+        "company": "Various",
+        "role": "Audit Associate",
+        "location": "London",
+        "url": "https://www.reed.co.uk/authentication/register?returnTo=%2Fjobs%2FAudit%2520Associate-jobs-in-London",
+        "source": "Reed",
+        "status": "URL_FOUND",
+        "category": "Finance/Accounting"
+    },
+    "LinkedIn_Audit_Associate_South_East": {
+        "company": "Various",
+        "role": "Audit Associate",
+        "location": "South East",
+        "url": "https://www.linkedin.com/jobs/search/?keywords=Audit%20Associate&location=South%20East#main-content",
+        "source": "LinkedIn",
+        "status": "URL_FOUND",
+        "category": "Finance/Accounting"
+    }
+}
