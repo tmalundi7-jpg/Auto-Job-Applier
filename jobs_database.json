@@ -412,5 +412,50 @@
         "source": "LinkedIn",
         "status": "URL_FOUND",
         "category": "Finance/Accounting"
+    },
+    "Reed_Trust_Tax_Associate_Fareham": {
+        "company": "Matchtech",
+        "role": "Trust Tax Associate",
+        "location": "Fareham",
+        "url": "https://www.reed.co.uk/jobs/trust-tax-associate/56705267",
+        "description": "Trust/Estate tax, trust returns",
+        "salary": "\u00a360,000",
+        "status": "URL_FOUND"
+    },
+    "Reed_Personal_Tax_Associate_Camberley": {
+        "company": "Howett Thorpe",
+        "role": "Personal Tax Associate",
+        "location": "Camberley",
+        "url": "https://www.reed.co.uk/jobs/personal-tax-associate/56615766",
+        "description": "Self-assessment, personal tax",
+        "salary": "\u00a327,500 - \u00a335,000",
+        "status": "URL_FOUND"
+    },
+    "Reed_Financial_Modelling_Analyst_Swindon": {
+        "company": "National Trust",
+        "role": "Financial Modelling Analyst",
+        "location": "Swindon",
+        "url": "https://www.reed.co.uk/jobs/financial-modelling-analyst/56659962",
+        "description": "Excel, financial modelling",
+        "salary": "\u00a336,621",
+        "status": "URL_FOUND"
+    },
+    "Reed_Financial_Analyst_London": {
+        "company": "Page Personnel",
+        "role": "Financial Analyst",
+        "location": "London",
+        "url": "https://www.reed.co.uk/jobs/financial-analyst/56720760",
+        "description": "Qualified ACA/ACCA/CIMA",
+        "salary": "\u00a345,000 - \u00a355,000",
+        "status": "URL_FOUND"
+    },
+    "Reed_Tax_Senior_Letchworth": {
+        "company": "TG Group",
+        "role": "Tax Senior",
+        "location": "Letchworth",
+        "url": "https://www.reed.co.uk/jobs/tax-senior/56705118",
+        "description": "Tax compliance, advisory",
+        "salary": "Competitive",
+        "status": "URL_FOUND"
     }
 }
